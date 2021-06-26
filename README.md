@@ -1,1 +1,1 @@
-# Automating-Email-WhatsApp-and-creation-of-AWS-instance-using-Python
+# Automating-Email-WhatsApp-and-launching-a-AWS-instance-using-Python
